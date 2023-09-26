@@ -32,3 +32,4 @@ print("coffee".ljust(25, '.') + '$1'.rjust(4))
 print("tea".ljust(25, '.') + '$1'.rjust(4))
 print("Muffin".ljust(25, '.') + '$2'.rjust(4))
 print("Cheesecake".ljust(25, '.') + '$3'.rjust(4))
+
